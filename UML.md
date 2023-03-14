@@ -58,5 +58,7 @@
 | - |
 |<p>- level: int</p><p>- score : int</p><p>- timeSpent : int</p>|
 |<p>+ setLevel(level : int)</p><p>+ getScore()</p><p>+ getLevel()</p><p>+ setScore()</p>|
+  
+  ClassDiagram
 
 Parent o-- User
