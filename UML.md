@@ -156,4 +156,6 @@ class Timer{
     + stopTime()
     + timeDiff()
 }
+
+Parent o-- User
 ```
