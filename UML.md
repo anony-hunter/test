@@ -161,4 +161,9 @@ Parent o-- User: Child of
 User "1..*"--"1..*" StudyMaterial 
 User -- AppBlock
 User -- Timer
+User o-- Schedule : has a 
+Schedule o-- Task: has
+StudyMaterial o-- Rating : has
+Assessment o-- Question: contains
+Quiz o-- Question: contains
 ```
