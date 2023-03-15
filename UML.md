@@ -166,5 +166,6 @@ Schedule o-- Task: has
 StudyMaterial o-- Rating : has
 Assessment o-- Question: contains
 Quiz o-- Question: contains
-StudyMaterial --|> Assessment,Quiz
+StudyMaterial --|> Assessment
+StudyMaterial --|> Quiz
 ```
