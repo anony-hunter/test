@@ -1,7 +1,7 @@
 ```mermaid
 classDiagram
 
-class User as "**User**"{
+class User{
 
     - userName : String
     - password : String
