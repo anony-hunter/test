@@ -1,4 +1,4 @@
-```mermaid
+@startuml 
 
 classDiagram
 
@@ -157,4 +157,4 @@ class Timer{
     + stopTime()
     + timeDiff()
 }
-```
+@enduml
