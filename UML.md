@@ -169,5 +169,5 @@ Quiz o-- Question: contains
 StudyMaterial --|> Assessment
 StudyMaterial --|> Quiz
 Parent ..> Progress: can see
-User "1..*"--"1" Progress
+User "1..*"--"1" Progress: make/can see
 ```
