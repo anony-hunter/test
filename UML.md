@@ -168,4 +168,5 @@ Assessment o-- Question: contains
 Quiz o-- Question: contains
 StudyMaterial --|> Assessment
 StudyMaterial --|> Quiz
+Parent ..> Progress: can see
 ```
