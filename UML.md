@@ -157,4 +157,5 @@ class Timer{
     + stopTime()
     + timeDiff()
 }
+
 @enduml
