@@ -157,5 +157,5 @@ class Timer{
     + timeDiff()
 }
 
-Parent o-Child of- User
+Parent o--Child of User
 ```
