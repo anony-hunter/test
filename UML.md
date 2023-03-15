@@ -159,4 +159,6 @@ class Timer{
 
 Parent o-- User: Child of
 User "1..*"--"1..*" StudyMaterial 
+User -- AppBlock
+User -- Timer
 ```
