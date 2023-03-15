@@ -2,7 +2,7 @@
 
 classDiagram
 
-class User{
+class User as "**User**"{
 
     - userName : String
     - password : String
