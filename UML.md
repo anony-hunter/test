@@ -158,4 +158,5 @@ class Timer{
 }
 
 Parent o-- User: Child of
+User -- StudyMaterial 
 ```
