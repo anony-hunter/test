@@ -158,7 +158,7 @@ class Timer{
 }
 
 Parent o-- User: Child of
-User "1..*"--"1..*" StudyMaterial 
+User "1..*"--"1..*" StudyMaterial: Uses
 User -- AppBlock
 User -- Timer
 User o-- Schedule : has a 
